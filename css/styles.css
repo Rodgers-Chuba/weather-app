@@ -1,0 +1,35 @@
+.footer-wraper 
+{
+    text-transform: uppercase;
+    background-color: aliceblue;
+    color: white;
+}
+#banner
+{
+    width: 100%;
+    background-image: url('../images/bg/a.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    background-attachment: fixed;
+}
+#banner .banner-fader 
+{
+    height: 80vh;
+    background: rgb(0, 0, 0);
+    opacity: 0.845437;       
+}
+.highlight-fader
+{
+    padding-top: 15%;
+    padding-bottom: 15%;
+    color: rgb(238, 238, 238);
+    background-color: black;
+    margin: 0;
+    opacity: 0.787878;
+}
+.nav-menu-slide
+{
+    width: 100%;
+}
